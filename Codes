@@ -27,7 +27,7 @@ SMTP_SERVER='smtp.gmail.com'
 SMTP_PORT=587
 USERNAME='respi.atlantis@gmail.com'
 PASSWORD='lwtbhdsuzhct'
-RECIEVER_EMAIL='praneeth.21bce9379@vitapstudent.ac.in'
+RECIEVER_EMAIL='naveen.21mis7145@vitapstudent.ac.in'
 #*************************** Video filename and path ********************
 filename_part1="surveillance"
 file_ext=".jpg"
